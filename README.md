@@ -7,3 +7,4 @@ Oyunların kurulum dosyaları. Oyun içindeki **Güncelle** düğmesi buradan in
 - [Park RC — en son sürüm](https://raw.githubusercontent.com/evozz/APKS/main/ParkRC/ParkRC.apk)
 - [Uçak Oyunu — en son sürüm](https://raw.githubusercontent.com/evozz/APKS/main/UcakOyunu/UcakOyunu.apk)
 - [Boyama — en son sürüm](https://raw.githubusercontent.com/evozz/APKS/main/Boyama/Boyama.apk)
+- [Otobüs Şoförü — en son sürüm](https://raw.githubusercontent.com/evozz/APKS/main/OtobusSim/OtobusSim.apk)
